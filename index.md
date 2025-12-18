@@ -70,3 +70,10 @@ Support Email: wilpein20180101@163.com
 App Page: https://apps.apple.com/us/app/mellowmind-reflection/id6756572276
 
 Reiterating the Disclaimer: MellowMind: Reflection is a tool for personal writing, self-reflection, and recording life. It is not a substitute for professional medical advice, diagnosis, or treatment. If you are experiencing mental health issues, please seek help from a qualified healthcare provider.
+
+Terms of Use
+
+This app uses Apple’s Standard End User License Agreement (EULA).
+You can view it here:
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+
