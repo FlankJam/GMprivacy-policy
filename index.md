@@ -1,142 +1,50 @@
-MellowMind: Reflection Privacy Policy
+# VELORA Privacy Policy
 
-Last Updated: December 16, 2025
+Last updated: November 2, 2026
 
-Welcome to MellowMind: Reflection (“the Application”).
-We understand the importance of your privacy and are committed to protecting it. This Privacy Policy explains how your information is handled when you use MellowMind: Reflection.
+VELORA (“we,” “our,” or “the app”) is a sound mixing app for iOS. This Privacy Policy explains how information is handled when you use VELORA.
 
-Core Commitment: Your data belongs to you — and only to you.
+## Information stored on your device
 
-MellowMind: Reflection is designed as a local-first journaling and reflection application. It does not require account registration and does not operate its own backend servers. All personal content you create remains under your control.
+VELORA generates its sound playback on your device. The app stores preferences, onboarding status, selected scenes, mixer settings, and custom presets locally on your device so they are available when you use the app again.
 
-This Application is intended for personal writing and self-reflection only. It is not a medical device and does not provide medical advice, diagnosis, or treatment.
+This information is not transmitted to VELORA’s servers. VELORA does not require you to create an account.
 
-Please read this Privacy Policy carefully before using the Application.
+You can remove locally stored app data by deleting VELORA from your device. This also removes local presets and preferences.
 
-I. Information We Collect and How We Use It
+## Purchases
 
-Because MellowMind: Reflection operates locally on your device, our data collection is extremely limited.
+VELORA Pro is offered as a one-time in-app purchase through Apple’s App Store. Payments and payment credentials are handled by Apple. VELORA does not receive your full payment card details.
 
-1. Content You Create
+The app uses Apple’s StoreKit services to check purchase status and restore eligible purchases. Apple may process information under its own terms and privacy policy. Please review Apple’s privacy information for details about Apple’s handling of App Store transactions.
 
-All journal entries, reflections, prompts, mood tags, timestamps, and related content (“Content”) are stored locally on your device.
+## Information we collect
 
-We do not collect, upload, store, or access your Content.
+Based on the current version of VELORA, we do not operate a VELORA account service and do not use advertising, analytics, or crash-reporting SDKs. We do not collect or transmit your audio, custom presets, or mixer settings.
 
-If you enable iCloud sync, your Content is encrypted and synchronized between your devices under your personal Apple ID.
+If this changes, we will update this policy and the App Store privacy disclosures as required.
 
-Data storage, encryption, and synchronization are handled entirely by Apple’s iOS/iPadOS and iCloud systems and are subject to Apple’s Privacy Policy.
+## Sharing
 
-We do not own, analyze, or view your personal writing data.
+We do not sell personal information. We do not share locally stored presets, mixer settings, or generated audio with third parties.
 
-2. Anonymous Analytics (Optional)
+Apple processes App Store transactions and purchase restoration through its services. Apple’s handling of information is governed by Apple’s own terms and privacy policy.
 
-To improve app stability and user experience, we may use Apple App Analytics.
+## Data retention and deletion
 
-This data is aggregated and anonymous
+Preferences and presets remain on your device until you delete them in the app, if the relevant deletion option is available, or remove the app from your device. We do not retain copies on VELORA servers.
 
-It does not include journal content or personally identifiable information
+Purchase records are managed by Apple and may remain associated with your Apple Account according to Apple’s policies.
 
-Examples include: app launches, feature usage frequency, and crash reports
+## Children’s privacy
 
-You may disable analytics sharing at any time via:
-Settings → Privacy & Security → Analytics & Improvements
+VELORA is not designed to collect personal information from children. The app does not require an account and, based on the current version, does not transmit user-generated audio or presets to us.
 
-3. Subscription Status Information
+## Changes to this policy
 
-MellowMind: Reflection offers optional auto-renewable subscriptions.
+We may update this Privacy Policy when the app’s features or data practices change. The “Last updated” date above indicates when the latest version took effect. Material changes will be reflected on this page.
 
-All payments are processed securely by Apple’s App Store
+## Contact
 
-We do not collect or store payment information such as credit card details
-
-We only receive an anonymous, encrypted receipt from Apple to verify subscription status on your device and unlock premium features
-
-II. Data Storage and Security
-Storage
-
-Content is stored locally on your device by default
-
-If iCloud is enabled, data is encrypted and synced through Apple’s iCloud service
-
-Security
-
-Local data security depends on your device’s security settings (device passcode, Face ID, Touch ID)
-
-iCloud security is managed by Apple
-
-We recommend keeping your device and Apple ID credentials secure.
-
-III. Subscription Information and Value
-
-MellowMind: Reflection is free to download and use.
-An optional monthly auto-renewable subscription (USD $4.99 / month) is available to unlock premium features, including but not limited to:
-
-Enhanced and personalized reflection prompts
-
-Advanced insights and visualization of writing habits
-
-Unlimited journal creation and archiving
-
-Subscription Management
-
-Subscriptions renew automatically unless canceled
-
-You can manage or cancel your subscription via:
-Settings → [Your Name] → Subscriptions
-
-Refunds and billing are handled by Apple according to App Store policies
-
-IV. Third-Party Services
-
-This app only uses the following Apple-provided services:
-
-iCloud (optional): data synchronization
-
-App Store: subscription and payment processing
-
-Apple App Analytics (optional): anonymous usage statistics
-
-All third-party services are governed by Apple’s Privacy Policy.
-
-V. Your Rights and Control
-
-You have full control over your data:
-
-Access & Deletion: You may edit or delete any journal entry at any time within the app
-
-Complete Data Removal: Uninstalling the app will remove all locally stored data from your device. If iCloud sync is enabled, you may manage or delete synced data via iCloud settings
-
-Analytics Control: You may opt out of analytics sharing through system settings
-
-VI. Children’s Privacy
-
-MellowMind: Reflection is not intended for children under the age of 13.
-We do not knowingly collect personal information from children. Because all data is stored locally, parents or guardians are responsible for supervising a child’s use of the app.
-
-VII. Changes to This Privacy Policy
-
-We may update this Privacy Policy to reflect changes in functionality or compliance requirements.
-Any updates will be reflected on this page, along with an updated “Last Updated” date.
-
-VIII. Contact Us
-
-If you have questions about this Privacy Policy or our data practices, please contact us:
-
-Developer Name: WP Chan
-
-Support Email: wilpein20180101@163.com
-
-App Page: https://apps.apple.com/us/app/mellowmind-reflection/id6756572276
-
-Disclaimer
-
-MellowMind: Reflection is a tool for personal writing and self-reflection.
-It is not a substitute for professional medical advice, diagnosis, or treatment.
-If you are experiencing mental health concerns, please seek assistance from a qualified healthcare provider.
-
-Terms of Use
-
-This application uses Apple’s Standard End User License Agreement (EULA).
-You may review it here:
-https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+For privacy questions or requests, contact:
+wilpein20180101@163.com
